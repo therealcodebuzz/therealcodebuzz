@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ⚡ CODEBUZZ
+# ⚡ CodeBuzz ⚡
 
 ### `SOFTWARE` • `HARDWARE` • `WEB` • `IoT`
 
@@ -30,10 +30,10 @@
 │  NAME       : Advait / CodeBuzz                              │
 │  ROLE       : Developer • Builder • Student                  │
 │                                                              │
-│  HARDWARE   : Arduino • NodeMCU • Sensors • IoT             │
+│  HARDWARE   : Arduino • NodeMCU • Sensors • IoT              │
 │  SOFTWARE   : VB.NET • Python                                │
 │  WEB        : HTML • CSS • JavaScript • Firebase             │
-│  DATA       : SQL                                             │
+│  DATA       : SQL                                            │
 │                                                              │
 │  CURRENTLY  : Re-mastering Python                            │
 │  EXPLORING  : Computer Vision • Automation • Tooling         │
