@@ -353,9 +353,12 @@ alt="Contribution Graph">
 
 <br>
 
+
 <img
-src="https://github-profile-trophy.vercel.app/?username=therealcodebuzz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
-alt="GitHub Trophies">
+src="https://github-profile-trophy-liard-delta.vercel.app/?username=therealcodebuzz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
+alt="GitHub Trophies"
+/>
+
 
 </div>
 
