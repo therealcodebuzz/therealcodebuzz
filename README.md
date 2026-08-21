@@ -253,9 +253,8 @@ Tooling
 <img src="https://skillicons.dev/icons?i=firebase" width="45"><br>
 <sub><b>Firebase</b></sub>
 </td>
-
 <td align="center" width="110">
-🖥️<br>
+<img src="https://skillicons.dev/icons?i=visualstudio" width="45"><br>
 <sub><b>VB.NET</b></sub>
 </td>
 
