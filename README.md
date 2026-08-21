@@ -355,11 +355,10 @@ alt="Contribution Graph">
 
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=therealcodebuzz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
+src="./assets/trophy.svg"
 alt="GitHub Trophies"
 width="850"
 />
-
 
 </div>
 
