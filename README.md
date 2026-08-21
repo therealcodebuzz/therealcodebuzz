@@ -39,7 +39,7 @@
 │  EXPLORING  : Computer Vision • Automation • Tooling         │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-
+```
 <div align="center">
 
 // MY DEVELOPMENT JOURNEY
@@ -205,4 +205,4 @@ VB.NET .NET Windows
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 
 </div>
-```
+
