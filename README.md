@@ -339,9 +339,16 @@ Desktop applications built while working extensively with the VB.NET ecosystem.
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=therealcodebuzz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-alt="Contribution Graph">
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=therealcodebuzz&show_icons=true&hide_border=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
+alt="GitHub Statistics"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealcodebuzz&layout=compact&hide_border=true&theme=transparent&title_color=00D9FF&text_color=C9D1D9"
+alt="Top Languages"
+/>
 
 </div>
 
