@@ -255,14 +255,4 @@ Working with data
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   SYSTEM              ONLINE                             │
-│   DEVELOPMENT         ACTIVE                             │
-│   PYTHON              RE-MASTERING                       │
-│   COMPUTER VISION     EXPLORING                          │
-│   SQL                 LEARNING                           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+
