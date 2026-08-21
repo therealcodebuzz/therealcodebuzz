@@ -42,7 +42,7 @@
 ```
 <div align="center">
 
-// MY DEVELOPMENT JOURNEY
+## `// MY DEVELOPMENT JOURNEY`
 </div>
 
 <table align="center">
@@ -96,7 +96,7 @@ Tooling
 </table>
 <div align="center">
 
-// TECHNOLOGY MATRIX
+## `// TECHNOLOGY MATRIX`
 Languages
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,mysql,bash" />
 
@@ -110,14 +110,14 @@ Tools & Platforms
 </div>
 <div align="center">
 
-// SELECTED BUILDS
+## `// SELECTED BUILDS`
 </div>
 
 <table>
 <tr>
 <td width="50%">
 
-⚡ CodeBuzz Scaffold
+### ⚡ CodeBuzz Scaffold
 A Python project scaffolding tool designed to quickly create and configure new projects.
 Stack
 Python CLI Automation Ruff
@@ -125,7 +125,7 @@ Python CLI Automation Ruff
 
 <td width="50%">
 
-🧾 Happy Family Invoicer
+### 🧾 Happy Family Invoicer
 A web-based invoice application with Firebase integration and PDF generation.
 Stack
 HTML CSS JavaScript Firebase
@@ -135,7 +135,7 @@ HTML CSS JavaScript Firebase
 <tr>
 <td width="50%">
 
-🤖 Robotics & IoT
+### 🤖 Robotics & IoT
 A collection of hardware projects involving microcontrollers, sensors and physical-world interfacing.
 Stack
 Arduino NodeMCU ESP8266 Sensors
@@ -143,66 +143,126 @@ Arduino NodeMCU ESP8266 Sensors
 
 <td width="50%">
 
-🖥️ VB.NET Applications
+### 🖥️ VB.NET Applications
 Desktop applications built while working extensively with the VB.NET ecosystem.
 Stack
 VB.NET .NET Windows
 </td>
 </tr>
 </table>
+
+
+
 <div align="center">
 
-// GITHUB TELEMETRY
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=therealcodebuzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealcodebuzz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+### `// GITHUB TELEMETRY`
 
 
+<br>
 
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=therealcodebuzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
+     alt="GitHub Statistics" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=therealcodebuzz&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</div>
-<div align="center">
-
-// CONTRIBUTION MATRIX
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=therealcodebuzz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-<div align="center">
-
-// GITHUB TROPHIES
-<img src="https://github-profile-trophy.vercel.app/?username=therealcodebuzz&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-<div align="center">
-
-// CURRENT STATUS
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [ ONLINE ]                                         │
-│                                                     │
-│  Re-mastering Python                                │
-│  Exploring Computer Vision                          │
-│  Learning SQL                                       │
-│  Building developer tools                           │
-│                                                     │
-│  SYSTEM STATUS: ████████████████████ 100%           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-</div>
-<div align="center">
-
-// CONNECT
-<a href="https://github.com/therealcodebuzz">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealcodebuzz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
+     alt="Top Languages" />
 
 </div>
 
+---
+
+<div align="center">
+
+## `// CONTRIBUTION MATRIX`
+
+<br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=therealcodebuzz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+width="95%"
+alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `// ACHIEVEMENTS`
+
+<br>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=therealcodebuzz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CURRENTLY BUILDING`
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+🐍  
+**PYTHON**
+
+Re-mastering Python  
+Building tools & automation
+
+</td>
+
+<td align="center" width="33%">
+
+👁️  
+**COMPUTER VISION**
+
+Exploring OpenCV  
+Image processing & vision
+
+</td>
+
+<td align="center" width="33%">
+
+🗄️  
+**DATABASES**
+
+Learning SQL  
+Working with data
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `// SYSTEM STATUS`
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BUILDING-100%25-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MODE-BUILD-00D9FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   SYSTEM              ONLINE                             │
+│   DEVELOPMENT         ACTIVE                             │
+│   PYTHON              RE-MASTERING                       │
+│   COMPUTER VISION     EXPLORING                          │
+│   SQL                 LEARNING                           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
