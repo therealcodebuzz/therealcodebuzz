@@ -334,28 +334,6 @@ Desktop applications built while working extensively with the VB.NET ecosystem.
 
 <div align="center">
 
-## `// GITHUB TELEMETRY`
-
-<br>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=therealcodebuzz&show_icons=true&hide_border=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
-alt="GitHub Statistics"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealcodebuzz&layout=compact&hide_border=true&theme=transparent&title_color=00D9FF&text_color=C9D1D9"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 ## `// CONTRIBUTION MATRIX`
 
 <br>
